@@ -1,0 +1,57 @@
+body {
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #4f46e5;
+}
+.section-text {
+  color: #555;
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+.btn-primary {
+  background-color: #6366f1;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 50px;
+  transition: transform 0.3s ease;
+}
+.btn-primary:hover {
+  transform: scale(1.05);
+  background-color: #4f46e5;
+}
+.btn-secondary {
+  background-color: white;
+  color: #6366f1;
+  padding: 10px 20px;
+  border-radius: 50px;
+  transition: transform 0.3s ease;
+}
+.btn-secondary:hover {
+  background-color: #ddd;
+}
+.skill-bar {
+  background: #ddd;
+  border-radius: 25px;
+  margin: 10px 0;
+  overflow: hidden;
+}
+.skill-bar span {
+  display: block;
+  padding: 10px;
+  background: linear-gradient(90deg, #6366f1, #9333ea);
+  color: white;
+  font-weight: bold;
+  transition: width 1s ease-in-out;
+}
+.animate-glow {
+  box-shadow: 0 0 20px #9333ea;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 20px #9333ea; }
+  50% { box-shadow: 0 0 40px #9333ea; }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "AI & ML Certification",
+        "issuer": "Infosys Springboard",
+        "date": "2025",
+        "logo": "images/infosys.jpeg",
+        "link": "https://drive.google.com/drive/folders/1t8TYK1VK8DM7_0WNmtoW8fxMXeHKM6mU"
+    },
+    {
+        "title": "Full Stack Development Certification",
+        "issuer": "Infosys Springboard",
+        "date": "2025",
+        "logo": "images/infosys.jpeg",
+        "link": "https://drive.google.com/drive/folders/1t8TYK1VK8DM7_0WNmtoW8fxMXeHKM6mU"
+    },
+    {
+        "title": "TCS ION Career Edge – Young Professional",
+        "issuer": "TCS ION",
+        "date": "2025",
+        "logo": "images/tcs.png",
+        "link": "https://drive.google.com/drive/folders/1t8TYK1VK8DM7_0WNmtoW8fxMXeHKM6mU"
+    },
+    {
+        "title": "Interview Toolkit",
+        "issuer": "Unstop",
+        "date": "2025",
+        "logo": "images/unstop.png",
+        "link": "https://drive.google.com/drive/folders/1t8TYK1VK8DM7_0WNmtoW8fxMXeHKM6mU"
+    },
+    {
+        "title": "Microsoft Interview Preparation",
+        "issuer": "Unstop",
+        "date": "2025",
+        "logo": "images/unstop.png",
+        "link": "https://drive.google.com/drive/folders/1t8TYK1VK8DM7_0WNmtoW8fxMXeHKM6mU"
+    },
+    {
+        "title": "Cyber Job Simulation",
+        "issuer": "Deloitte Forage",
+        "date": "July 2025",
+        "logo": "images/deloitte.png",
+        "link": "http://theforage.com/"
+    },
+    {
+        "title": "AI-Powered Performance Ads Certification",
+        "issuer": "Google Skillshop",
+        "date": "2025",
+        "logo": "images/google.png",
+        "link": "https://skillshop.credential.net/37e0031d-4851-4d74-b483-57ee7135d56c"
+    },
+    {
+        "title": "Google Analytics Certification",
+        "issuer": "Google Skillshop",
+        "date": "2025",
+        "logo": "images/google.png",
+        "link": "https://skillshop.credential.net/935ce0db-2758-490d-bc5a-58fcae3efc6b"
+    }
+]
